@@ -15,4 +15,4 @@ Console application to print text in AsciiArt Format:
 # # #   #   #   # # # # #   #
 # # ### ### ###  #  # # #   #
 </pre>
-To run it just clone and execute <pre>dotnet run</pre> 
+To run it, just clone and execute <pre>dotnet run</pre> 
