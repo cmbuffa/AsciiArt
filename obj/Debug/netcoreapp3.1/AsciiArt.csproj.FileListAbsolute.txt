@@ -1,0 +1,14 @@
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\AsciiArt.exe
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\AsciiArt.deps.json
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\AsciiArt.runtimeconfig.json
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\AsciiArt.runtimeconfig.dev.json
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\AsciiArt.dll
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\AsciiArt.pdb
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.csprojAssemblyReference.cache
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.AssemblyInfoInputs.cache
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.AssemblyInfo.cs
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.dll
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.pdb
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\obj\Debug\netcoreapp3.1\AsciiArt.genruntimeconfig.cache
+D:\Documents\Projects\Codes\AsciiArt\AsciiArt\bin\Debug\netcoreapp3.1\Ascii.txt
